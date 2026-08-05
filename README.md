@@ -1,29 +1,81 @@
- 🤖 AIVOA Frontend
+# 🤖 AIVOA Frontend
 
-AI-Powered Pharmaceutical Complaint Management System
+# AI-Powered Pharmaceutical Customer Complaint Management System
 
-A modern React.js frontend for analyzing pharmaceutical customer complaints using Artificial Intelligence.
+AIVOA (AI Voice of the Customer Analytics) is a modern React.js application developed to simplify pharmaceutical customer complaint management using Artificial Intelligence.
 
- 📸 Preview
+The application allows users to submit complaints manually or upload complaint PDFs, receive AI-powered analysis, monitor complaint trends, and download professional complaint reports.
 
-(Add screenshots here after deployment)
+---
 
+# 📸 Application Screenshots
 
-✨ Features
+## 🏠 Home Page
 
-- AI-powered complaint analysis
-- Complaint form with validation
-- PDF complaint upload
-- Risk level visualization
-- Root cause analysis
-- CAPA recommendations
-- Complaint dashboard
-- Complaint history
-- Download AI report as PDF
-- Responsive UI
+![Home Page](screenshots/01-home-page.png)
 
+---
 
- 🛠 Tech Stack
+## 📝 Complaint Submission Form
+
+![Complaint Form](screenshots/02-filled-complaint-form.png)
+
+---
+
+## 📄 PDF Complaint Upload
+
+![PDF Upload](screenshots/03-upload-pdf.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/04-dashboard.png)
+
+---
+
+## 📚 Complaint History
+
+![Complaint History](screenshots/05-complaint-history.png)
+
+---
+
+## 🤖 AI Complaint Analysis
+
+![AI Analysis](screenshots/06-ai-analysis.png)
+
+---
+
+## ✅ AI Summary & CAPA Recommendations
+
+![Summary and CAPA](screenshots/07-summary-and-capa.png)
+
+---
+
+## 📭 Empty Complaint History
+
+![Empty History](screenshots/08-empty-history.png)
+
+---
+
+# ✨ Features
+
+- 🤖 AI-powered pharmaceutical complaint analysis
+- 📄 Upload complaint PDF files
+- 📝 Manual complaint submission
+- ⚠️ Automatic risk level prediction
+- 🔍 Root cause analysis
+- ✅ CAPA recommendation generation
+- 📊 Interactive dashboard
+- 📚 Complaint history management
+- 📥 Download AI-generated complaint report as PDF
+- 🎨 Modern responsive user interface
+
+---
+
+# 🛠 Technology Stack
+
+### Frontend
 
 - React.js
 - Vite
@@ -32,13 +84,15 @@ A modern React.js frontend for analyzing pharmaceutical customer complaints usin
 - jsPDF
 - CSS3
 
+---
 
- 📁 Folder Structure
+# 📂 Project Structure
 
-```
+```text
 src/
 │
 ├── assets/
+│
 ├── components/
 │   ├── ComplaintForm.jsx
 │   ├── Dashboard.jsx
@@ -49,36 +103,7 @@ src/
 │   └── Home.jsx
 │
 ├── styles/
-│
-├── App.jsx
-└── main.jsx
-```
-
-
- 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/AIVOA-Frontend.git
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run
-
-```bash
-npm run dev
-```
-
-📷 Screenshots
-
-Coming Soon
-
- 👨‍💻 Author
-
-Developed by **Shariya Asad**
+│   ├── App.css
+│   ├── ComplaintForm.css
+│   ├── Dashboard.css
+│   ├── Header.css

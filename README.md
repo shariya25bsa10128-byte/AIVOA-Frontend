@@ -6,59 +6,59 @@ AIVOA (AI Voice of the Customer Analytics) is a modern React.js application deve
 
 The application allows users to submit complaints manually or upload complaint PDFs, receive AI-powered analysis, monitor complaint trends, and download professional complaint reports.
 
----
 
-# 📸 Application Screenshots
 
-## 🏠 Home Page
+ 📸 Application Screenshots
+
+ 🏠 Home Page
 
 ![Home Page](screenshots/01-home-page.png)
 
----
 
-## 📝 Complaint Submission Form
+
+ 📝 Complaint Submission Form
 
 ![Complaint Form](screenshots/02-filled-complaint-form.png)
 
----
 
-## 📄 PDF Complaint Upload
+
+📄 PDF Complaint Upload
 
 ![PDF Upload](screenshots/03-upload-pdf.png)
 
----
 
-## 📊 Dashboard
+
+ 📊 Dashboard
 
 ![Dashboard](screenshots/04-dashboard.png)
 
----
+
 
 ## 📚 Complaint History
 
 ![Complaint History](screenshots/05-complaint-history.png)
 
----
+
 
 ## 🤖 AI Complaint Analysis
 
 ![AI Analysis](screenshots/06-ai-analysis.png)
 
----
+
 
 ## ✅ AI Summary & CAPA Recommendations
 
 ![Summary and CAPA](screenshots/07-summary-and-capa.png)
 
----
+
 
 ## 📭 Empty Complaint History
 
 ![Empty History](screenshots/08-empty-history.png)
 
----
 
-# ✨ Features
+
+✨ Features
 
 - 🤖 AI-powered pharmaceutical complaint analysis
 - 📄 Upload complaint PDF files
@@ -71,11 +71,11 @@ The application allows users to submit complaints manually or upload complaint P
 - 📥 Download AI-generated complaint report as PDF
 - 🎨 Modern responsive user interface
 
----
 
-# 🛠 Technology Stack
 
-### Frontend
+ 🛠 Technology Stack
+
+**Frontend**
 
 - React.js
 - Vite

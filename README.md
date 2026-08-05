@@ -1,16 +1,84 @@
-# React + Vite
+ 🤖 AIVOA Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-Powered Pharmaceutical Complaint Management System
 
-Currently, two official plugins are available:
+A modern React.js frontend for analyzing pharmaceutical customer complaints using Artificial Intelligence.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+ 📸 Preview
 
-## React Compiler
+(Add screenshots here after deployment)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- AI-powered complaint analysis
+- Complaint form with validation
+- PDF complaint upload
+- Risk level visualization
+- Root cause analysis
+- CAPA recommendations
+- Complaint dashboard
+- Complaint history
+- Download AI report as PDF
+- Responsive UI
+
+
+ 🛠 Tech Stack
+
+- React.js
+- Vite
+- Axios
+- React Icons
+- jsPDF
+- CSS3
+
+
+ 📁 Folder Structure
+
+```
+src/
+│
+├── assets/
+├── components/
+│   ├── ComplaintForm.jsx
+│   ├── Dashboard.jsx
+│   ├── Header.jsx
+│   └── History.jsx
+│
+├── pages/
+│   └── Home.jsx
+│
+├── styles/
+│
+├── App.jsx
+└── main.jsx
+```
+
+
+ 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/AIVOA-Frontend.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run
+
+```bash
+npm run dev
+```
+
+📷 Screenshots
+
+Coming Soon
+
+ 👨‍💻 Author
+
+Developed by **Shariya Asad**
